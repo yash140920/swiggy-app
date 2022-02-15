@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.19091a31.chunk.css",
+    "main.js": "./static/js/main.627eda9c.chunk.js",
+    "main.js.map": "./static/js/main.627eda9c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8183a19b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8183a19b.js.map",
+    "static/js/2.f90fab01.chunk.js": "./static/js/2.f90fab01.chunk.js",
+    "static/js/2.f90fab01.chunk.js.map": "./static/js/2.f90fab01.chunk.js.map",
+    "static/js/3.78418f24.chunk.js": "./static/js/3.78418f24.chunk.js",
+    "static/js/3.78418f24.chunk.js.map": "./static/js/3.78418f24.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.19091a31.chunk.css.map": "./static/css/main.19091a31.chunk.css.map",
+    "static/js/2.f90fab01.chunk.js.LICENSE.txt": "./static/js/2.f90fab01.chunk.js.LICENSE.txt",
+    "static/media/Pocketss1.8c94aa21.png": "./static/media/Pocketss1.8c94aa21.png",
+    "static/media/Pocketss2.5c564601.png": "./static/media/Pocketss2.5c564601.png",
+    "static/media/hero_image.7ddcc499.png": "./static/media/hero_image.7ddcc499.png",
+    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8183a19b.js",
+    "static/js/2.f90fab01.chunk.js",
+    "static/css/main.19091a31.chunk.css",
+    "static/js/main.627eda9c.chunk.js"
+  ]
+}

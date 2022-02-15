@@ -1,0 +1,90 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    margin:30px;
+    margin-top: -28px;
+}
+.heroswiggylogo{
+    height: 125px;
+    width: 200px;
+    opacity: 1;
+    fill: #fc8019;
+    margin-top: 92px;
+    align-items: center;
+}
+.linkflex{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap:1.5rem;
+}
+.nav_link{
+    text-decoration: none;
+    color:rgb(0,0,0);
+    font-weight: 600;
+    font-size:16px;
+    line-height: 40px;
+}
+.nav_link:hover{
+    color:#FC8019;
+}
+.nav_button{
+    padding: 0 2rem;
+    border: none;
+    background-color:#000;
+    height: 40px;
+    text-align: center;
+    margin-right:23px;
+    cursor: pointer;
+}
+.nav_button:hover{
+    box-shadow: 0 0 10px lightgray;
+}
+.nav_but_link{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 40px;
+    width: auto;
+    
+}
+@media(max-width:590px){
+    .header{
+        flex-direction: column;
+    }
+    .linkflex{
+        margin-top: -35px;
+        margin-bottom:50px;
+    }
+}
+@media(max-width:510px){
+   .header{
+       margin-left: -15%;
+   }
+   .linkflex{
+       margin-bottom:50px ;
+   }
+}
+@media(max-width:380px){
+    .header{
+        margin-right: 35%;
+    }
+    .linkflex{
+        flex-direction: column;
+        gap:0;
+        margin-bottom:50px;
+    }
+}
+@media(max-width:270px){
+    .header{
+    margin-right: 59%;
+    }
+    .heroswiggylogo{
+        transform: scale(0.53);  
+        
+    }
+
+}
